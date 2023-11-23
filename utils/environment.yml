@@ -1,0 +1,7 @@
+name: controle_de_estoque
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - termcolor
+  - pynput
