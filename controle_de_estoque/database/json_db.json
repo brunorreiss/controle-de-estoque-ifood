@@ -1,0 +1,32 @@
+{
+    "32aab7be-1dda-4b14-9f1c-2ab10a4386bf": {
+        "name": "b",
+        "sales_history": [],
+        "requests": 0,
+        "menu": []
+    },
+    "d274a0b8-eb14-4991-b9a5-39e2213ea1c8": {
+        "name": "c",
+        "sales_history": [],
+        "requests": 0,
+        "menu": []
+    },
+    "bb2ded61-76f2-48fe-8fe0-1e508f2549f0": {
+        "name": "d",
+        "sales_history": [],
+        "requests": 0,
+        "menu": []
+    },
+    "2ab306ff-3709-404c-88b5-b5ff7b84ab15": {
+        "name": "e",
+        "sales_history": [],
+        "requests": 0,
+        "menu": []
+    },
+    "6e8c9c73-cb78-4d5e-9821-26f6d1c462c5": {
+        "name": "xxt",
+        "sales_history": [],
+        "requests": 0,
+        "menu": []
+    }
+}
