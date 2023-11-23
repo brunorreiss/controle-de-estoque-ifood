@@ -188,6 +188,7 @@ deactivate
 ```
 
 <h2 id="Inicializar projeto"> :snake: Inicializar projeto</h2>
+
 - Navegar até a pasta de destino
 ```sh
 cd controle_de_estoque
