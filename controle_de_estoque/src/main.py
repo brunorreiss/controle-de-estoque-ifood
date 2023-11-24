@@ -1,5 +1,10 @@
 import sys
-sys.path.append(sys.path[0] + '/src')
+import platform
+
+if platform.system() == 'Windows':
+    sys.path.append(sys.path[0] + '\\src')
+else:
+    sys.path.append(sys.path[0] + '/src')
 
 from Menu import *
 from restaurant import *
