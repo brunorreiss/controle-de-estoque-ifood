@@ -1,6 +1,9 @@
-from src.Menu import *
-from src.restaurant import *
-from src.json_manipulation import *
+import sys
+sys.path.append(sys.path[0] + '/src')
+
+from Menu import *
+from restaurant import *
+from json_manipulation import *
 
 def menu():
     clear()
