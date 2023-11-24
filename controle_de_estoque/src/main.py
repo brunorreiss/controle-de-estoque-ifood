@@ -10,7 +10,8 @@ def menu():
     
     while True:
         option = set_menu(
-            title = ['Bem-vindo ao iFood !'],
+            title = ['Bem-vindo ao iFood !\n'
+                     'Use as setas para navegar e pressione ENTER para selecionar uma opção:'],
             items = [
                 "Acessar como parceiro",
                 "Acessar como usuário",
